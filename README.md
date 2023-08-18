@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I started programming by writing a Discord bot, and I still enjoy it.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
