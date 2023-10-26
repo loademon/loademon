@@ -1,13 +1,7 @@
 <h1 align="center">I'm Loademon</h1>
 <h3 align="center">a self-taught developer with a passion for backend and scripting.</h3>
 
-- 🔭 I’m currently working on **TivProject**
-
-- 🌱 I’m currently learning **C, C++, Python**
-
 - 📫 How to reach me **loademon@tutanota.com**
-
-- ⚡ Fun fact **I started programming by writing a Discord bot, and I still enjoy it.**
 
 <p align="left">
 </p>
